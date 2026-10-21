@@ -1,13 +1,13 @@
 ## Hello World, Cyberbasilisk here.
 
-Transition into robotics, with the aim of bridging the gap between human brain processing and modern compute. Building hands-on projects in ROS2, robotics simulations and autonomous navigation.
+Transitioning into robotics, with the aim of bridging the gap between human brain processing and modern compute. Laying foundations through hands-on projects in ROS2, robotics simulations and autonomous navigation.
 
 
 ### Currently working on
 
 * **Autonomous obstacle-avoiding rover** - Reactive LIDAR-based avoidance, ROS2 Jazzy + Gazebo Harmonic.
 
-* **Next up** - Porting to real hardware. Adding SLAM + Nav2 for full autonomous navigation
+* **Next up** - Porting to real hardware. Adding SLAM + Nav2 for full autonomous navigation.
 
 
 ### Tools & Tech
