@@ -2,11 +2,13 @@
 
 Transition into robotics, with the aim of bridging the gap between human brain processing and modern compute. Building hands-on projects in ROS2, robotics simulations and autonomous navigation.
 
+
 ### Currently working on
 
 * **Autonomous obstacle-avoiding rover** - Reactive LIDAR-based avoidance, ROS2 Jazzy + Gazebo Harmonic.
 
 * **Next up** - Porting to real hardware. Adding SLAM + Nav2 for full autonomous navigation
+
 
 ### Tools & Tech
 
@@ -17,6 +19,8 @@ Transition into robotics, with the aim of bridging the gap between human brain p
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Nav2](https://img.shields.io/badge/Nav2-blue?style=flat&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
 
 ### Reach me 
 
