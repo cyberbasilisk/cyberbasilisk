@@ -1,6 +1,6 @@
 ## Hello World, Cyberbasilisk here.
 
-Transitioning into robotics, with the aim of bridging the gap between human brain processing and modern compute. Laying foundations through hands-on projects in ROS2, robotics simulations and autonomous navigation.
+Transitioning into robotics, with the aim of bridging the gap between human brain processing and modern compute. Laying foundations through hands-on projects in ROS2, robotics simulations, machine learning and autonomous navigation.
 
 
 ### Currently working on
@@ -15,6 +15,8 @@ Transitioning into robotics, with the aim of bridging the gap between human brai
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat&logo=gazebo&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
