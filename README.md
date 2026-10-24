@@ -5,9 +5,17 @@ Transitioning into robotics, with the aim of bridging the gap between human brai
 
 ### Currently working on
 
-* **Autonomous obstacle-avoiding rover** - Reactive LIDAR-based avoidance, ROS2 Jazzy + Gazebo Harmonic.
+1. **Autonomous obstacle-avoiding rover**
+  * Phase 1 - Reactive LIDAR-based avoidance, ROS2 Jazzy + Gazebo Harmonic.
 
-* **Next up** - Porting to real hardware. Adding SLAM + Nav2 for full autonomous navigation.
+  * Phase 2 - Porting to real hardware. Adding SLAM + Nav2 for full autonomous navigation.
+
+
+### Featured Projects
+
+| Project  | What It Does | Stack |
+|-------|-----|------------|
+| [Autonomous Obstacle-Avoiding Rover](cyberbasilisk/autonomous-obstacle-avoiding-rover | Reactive obstacle avoidance in simulation, using LIDAR + pub/sub  | ROS-2, Gazebo, Python   |
 
 
 ### Tools & Tech
