@@ -15,7 +15,7 @@ Transitioning into robotics, with the aim of bridging the gap between human brai
 
 | Project  | What It Does | Stack |
 |-------|-----|------------|
-| [Autonomous Obstacle-Avoiding Rover](autonomous-obstacle-avoiding-rover) | Reactive obstacle avoidance in simulation, using LIDAR + pub/sub | ROS-2, Gazebo, Python |
+| [Autonomous Obstacle-Avoiding Rover]([autonomous-obstacle-avoiding-rover](https://github.com/cyberbasilisk/autonomous-obstacle-avoiding-rover)) | Reactive obstacle avoidance in simulation, using LIDAR + pub/sub | ROS-2, Gazebo, Python |
 
 
 ### Tools & Tech
