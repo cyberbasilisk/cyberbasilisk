@@ -6,9 +6,9 @@ Transitioning into robotics, with the aim of bridging the gap between human brai
 ### Currently working on
 
 1. **Autonomous obstacle-avoiding rover**
-     * Phase 1 - Reactive LIDAR-based avoidance, ROS2 Jazzy + Gazebo Harmonic.
+     * Phase 1 - Reactive LIDAR-based avoidance, ROS2 Jazzy + Gazebo Harmonic. - COMPLETED
 
-     * Phase 2 - Adding SLAM + Nav2 for full autonomous navigation.
+     * Phase 2 - Adding SLAM + Nav2 for full autonomous navigation. - COMPLETED
   
      * Phase 3 - Porting to real hardware. 
 
