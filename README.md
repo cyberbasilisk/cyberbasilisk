@@ -17,8 +17,9 @@ Transitioning into robotics, with the aim of bridging the gap between human brai
 
 | Project  | Description | Stack |
 |-------|-----|------------|
-| [Autonomous Obstacle-Avoiding Rover](https://github.com/cyberbasilisk/autonomous-obstacle-avoiding-rover) | Reactive obstacle avoidance in simulation, using LIDAR + pub/sub | ROS-2, Gazebo, Python |
+| [Autonomous Obstacle-Avoiding Rover](https://github.com/cyberbasilisk/autonomous-obstacle-avoiding-rover) | Reactive obstacle avoidance in simulation, using LIDAR + pub/sub | Ros2, Gazebo, Python |
 |[Face Detection And Anonymization](https://github.com/cyberbasilisk/face-anonymizer)| Detect and anonymize faces in images, videos and live webcam streams. | Python, OpenCV, MediaPipe |
+|[Self Navigating Mobile Robot](https://github.com/cyberbasilisk/self-navigating-robot)| Localization and full autonomous navigation | Ros2, Gazebo, Nav2, SLAM | 
 
 ### Tools & Tech
 
